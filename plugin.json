@@ -1,0 +1,100 @@
+{
+  "name": "Visual Effects Plugin",
+  "description": "Enhance your website with a variety of visual effects to improve readability and user interaction. This plugin adds a customizable toolbar allowing users to apply effects such as grayscale, invert colors, sepia, and more, directly to your site's pages.",
+  "license": "MIT",
+  "author": "htejera",
+  "version": "1.0.0",
+  "scope": "site",
+  "minimumPubliiVersion": "0.40.0",
+  "usePluginSettingsView": false,
+  "messageInOptions": {
+    "type": "info",
+    "text": "Customize the visual effects toolbar appearance and functionality directly from these settings."
+  },
+  "config": [
+    {
+      "name": "parentSelector",
+      "label": "Parent Element Selector",
+      "note": "CSS selector of the element to append the visual effects toolbar. Default is 'body'.",
+      "group": "Toolbar Settings",
+      "value": "body",
+      "type": "text"
+    },
+    {
+      "name": "comboPosition",
+      "label": "Combo Box Position",
+      "note": "Position of the combo box on the screen (right or left).",
+      "group": "Toolbar Settings",
+      "value": "right",
+      "type": "select",
+      "options": [
+        {
+          "label": "Right",
+          "value": "right"
+        },
+        {
+          "label": "Left",
+          "value": "left"
+        }
+      ]
+    },
+    {
+      "name": "language",
+      "label": "Language",
+      "note": "Select the language for the plugin interface. Default is English.",
+      "group": "Toolbar Settings",
+      "value": "en",
+      "type": "select",
+      "options": [
+        {
+          "label": "English",
+          "value": "en"
+        },
+        {
+          "label": "Spanish",
+          "value": "es"
+        },
+        {
+          "label": "French",
+          "value": "fr"
+        },
+        {
+          "label": "German",
+          "value": "de"
+        },
+        {
+          "label": "Italian",
+          "value": "it"
+        },
+        {
+          "label": "Portuguese",
+          "value": "pt"
+        }
+      ]
+    },
+    {
+      "name": "grayscaleValue",
+      "label": "Grayscale Filter Value",
+      "note": "The intensity of the grayscale effect (0% to 100%). Default is 100%.",
+      "group": "Effects Settings",
+      "value": "100%",
+      "type": "text"
+    },
+    {
+      "name": "invertValue",
+      "label": "Invert Filter Value",
+      "note": "The intensity of the invert effect (0% to 100%). Default is 100%.",
+      "group": "Effects Settings",
+      "value": "100%",
+      "type": "text"
+    },
+    {
+      "name": "sepiaValue",
+      "label": "Sepia Filter Value",
+      "note": "The intensity of the sepia effect (0% to 100%). Default is 100%.",
+      "group": "Effects Settings",
+      "value": "100%",
+      "type": "text"
+    }
+  ]
+}
