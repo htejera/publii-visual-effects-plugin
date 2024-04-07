@@ -66,7 +66,7 @@ You can customize the appearance of the visual effects combo to better match you
 
 ## Support
 
-For support, feature requests, or to report a bug, please visit the [GitHub issues page](https://github.com/htejera/publii-marquee-feed-plugin/issues).
+For support, feature requests, or to report a bug, please visit the [GitHub issues page](https://github.com/htejera/publii-visual-effects-plugin/issues).
 
 ## License
 
