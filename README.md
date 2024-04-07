@@ -7,6 +7,11 @@
 # Visual Effects Plugin for Publii
 The Visual Effects Plugin for [Publii](https://getpublii.com) enhances your website with a variety of visual enhancements that users can apply to improve accessibility, readability, and overall user experience. This versatile tool offers a range of effects from color adjustments to text transformations.
 
+![Plugin demo](https://github.com/htejera/publii-visual-effects-plugin/blob/main/visual-effects.gif?raw=true)
+
+
+[Open demo](https://marqueeplugin-technews.surge.sh/how-to-breed-villagers-in-minecraft.html)
+
 ## Features
 
 - **Diverse Visual Effects**: Users can choose from a selection of visual effects to customize the website's appearance according to their preferences.
