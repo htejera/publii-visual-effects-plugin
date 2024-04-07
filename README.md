@@ -31,7 +31,7 @@ The Visual Effects Plugin for [Publii](https://getpublii.com) enhances your webs
 
 ## Installation
 
-1. Download the plugin from the [Release page](#).
+1. Download the plugin from the [Release page](https://github.com/htejera/publii-visual-effects-plugin/releases/tag/1.0.0).
 2. In Publii, go to "Plugins" > "Add new" and select the downloaded ZIP file
 3. Activate the plugin.
 4. Go to the "Plugins" section in the Publii app and enable the "Visual Effect Plugin".
